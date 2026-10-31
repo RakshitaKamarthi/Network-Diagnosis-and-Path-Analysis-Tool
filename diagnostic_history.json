@@ -1,0 +1,11 @@
+[
+  {
+    "time": "2026-10-31T04:04:14.694866",
+    "label": "normal",
+    "loss_pct": 0.0,
+    "avg_rtt": 0.44014453887939453,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "HEALTHY"
+  }
+]

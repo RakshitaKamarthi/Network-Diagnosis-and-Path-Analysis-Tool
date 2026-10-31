@@ -1,0 +1,40 @@
+[
+  {
+    "time": "2026-10-31T09:26:51.749861",
+    "label": "normal",
+    "loss_pct": 0.0,
+    "avg_rtt": 101.95224285125732,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T10:44:20.629385",
+    "label": "normal",
+    "loss_pct": 0.0,
+    "avg_rtt": 0.4210233688354492,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T10:52:18.725359",
+    "label": "failure",
+    "loss_pct": 0.0,
+    "avg_rtt": 0.5086421966552734,
+    "active_path": "s1 -> s3 -> s4 -> s5",
+    "failed_links": [
+      "1-2"
+    ],
+    "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T10:58:26.808433",
+    "label": "recovered",
+    "loss_pct": 0.0,
+    "avg_rtt": 0.5166053771972656,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "HEALTHY"
+  }
+]

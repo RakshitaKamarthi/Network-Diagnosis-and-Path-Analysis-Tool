@@ -1,5 +1,2 @@
 __pycache__/
 *.pyc
-base_*.json
-diagnostic_history.json
-*.swp
