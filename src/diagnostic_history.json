@@ -36,5 +36,26 @@
     "active_path": "s1 -> s2 -> s5",
     "failed_links": [],
     "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T11:34:34.973908",
+    "label": "normal",
+    "loss_pct": 0.0,
+    "avg_rtt": 103.92060279846191,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T11:39:00.344850",
+    "label": "two links down",
+    "loss_pct": 100.0,
+    "avg_rtt": 0.0,
+    "active_path": "N/A",
+    "failed_links": [
+      "1-2",
+      "3-4"
+    ],
+    "status": "DEGRADED"
   }
 ]
