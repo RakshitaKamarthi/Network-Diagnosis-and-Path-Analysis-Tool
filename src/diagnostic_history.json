@@ -77,5 +77,14 @@
       "1-2"
     ],
     "status": "DEGRADED"
+  },
+  {
+    "time": "2026-10-31T12:08:02.414519",
+    "label": "delay 20ms loss 5%",
+    "loss_pct": 25.0,
+    "avg_rtt": 81.2468449274699,
+    "active_path": "s1 -> s2 -> s5",
+    "failed_links": [],
+    "status": "DEGRADED"
   }
 ]
