@@ -57,5 +57,25 @@
       "3-4"
     ],
     "status": "DEGRADED"
+  },
+  {
+    "time": "2026-10-31T11:50:57.615433",
+    "label": "normal",
+    "loss_pct": 0.0,
+    "avg_rtt": 0.5161046981811523,
+    "active_path": "s1 -> s2 -> s3",
+    "failed_links": [],
+    "status": "HEALTHY"
+  },
+  {
+    "time": "2026-10-31T11:57:03.690569",
+    "label": "single path down",
+    "loss_pct": 100.0,
+    "avg_rtt": 0.0,
+    "active_path": "N/A",
+    "failed_links": [
+      "1-2"
+    ],
+    "status": "DEGRADED"
   }
 ]
